@@ -1,2 +1,2 @@
 #!/bin/bash
-export setvar BEST School
+export BEST=School
